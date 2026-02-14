@@ -45,3 +45,4 @@ ax.legend()
 ax.grid(True)
 
 st.pyplot(fig)
+
